@@ -12,7 +12,7 @@ Built using:
 
 ## ✨ Demo
 
-![App Screenshot](screenshots/demo.png) <!-- Replace with your own screenshot path or hosted image -->
+![App Screenshot](RAG_DOC_Q&A_sample.png) <!-- Replace with your own screenshot path or hosted image -->
 
 ---
 
@@ -56,16 +56,3 @@ Built using:
 
 - Python 3.10+
 - Google Generative AI API key (set in `.env`)
-
-### 📦 Installation
-
-```bash
-git clone https://github.com/your-username/document-qa-chatbot.git
-cd document-qa-chatbot
-
-# (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
